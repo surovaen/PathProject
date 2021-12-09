@@ -8,5 +8,3 @@ _Практическое задание № 2:_
 _Запуск:_
 
 Файл **pathsproject.py** - в консоли/терминале
-
-Файл **pathsprojectexe.exe** - исполняемый файл Windows/через Wine в Linux
